@@ -5,6 +5,8 @@ This project focuses on building an automated Security Operations Center (SOC) s
 
 **Key Achievement:** This project was awarded a **9.1/10** score for the Graduation Thesis at University of Information Technology (UIT).
 
+Detailed Report here: https://github.com/hoangnguyen7474/AI-Powered-SOC-Automation/blob/main/Nguyen_Thai_Hoang_AI_SOC_Capstone_Portfolio.pdf
+
 ## 🚀 Key Features
 - **Automated Triage:** Automatically filters and categorizes security alerts from Splunk.
 - **AI-Driven Analysis:** Utilizes LLM (GPT-4o-mini) to act as a Tier 1 Analyst, providing context-aware analysis and remediation steps.
