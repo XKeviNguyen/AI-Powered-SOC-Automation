@@ -5,7 +5,7 @@ This project focuses on building an automated Security Operations Center (SOC) s
 
 **Key Achievement:** This project was awarded a **9.1/10** score for the Graduation Thesis at University of Information Technology (UIT).
 
-Detailed Report here: https://github.com/hoangnguyen7474/AI-Powered-SOC-Automation/blob/main/Nguyen_Thai_Hoang_AI_SOC_Capstone_Portfolio.pdf
+Detailed Report: [Nguyen_Thai_Hoang_AI_SOC_Capstone_Portfolio.pdf](Nguyen_Thai_Hoang_AI_SOC_Capstone_Portfolio.pdf)
 
 ## 🚀 Key Features
 - **Automated Triage:** Automatically filters and categorizes security alerts from Splunk.
@@ -152,3 +152,11 @@ Custom scripts for logic processing and security testing.
 
 ---
 
+
+## 🔎 Additional SOC Portfolio Project
+
+### [Splunk 101 Capstone - Ryan Adams Incident Investigation](Splunk101-Capstone/)
+
+Hands-on Splunk investigation demonstrating a complete SOC workflow across **Windows Security**, **Sysmon**, **Zeek**, and **Suricata** telemetry. The case covers credential-attack analysis, suspicious file creation and execution, process-attributed external communication, DNS/RPC pivots, scheduled-task persistence, incident scoping, and evidence-based reporting.
+
+**Portfolio deliverables:** final SOC report, reusable SPL query set, investigation timeline, and supporting Splunk screenshots.
